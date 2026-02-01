@@ -20,25 +20,25 @@ class VerticalCubeSlider {
         
         this.images = [
             {
-                url: 'images/unsplash-image-01.JPEG',
+                url: 'images/unsplash-image-01.jpeg',
                
                 title: 'Período intrauterino',
                
             },
             {
-                url: 'images/unsplash-image-02.JPEG',
+                url: 'images/unsplash-image-02.jpg',
                 
                 title: 'Período neonatal',
                 
             },
             {
-                url: 'images/unsplash-image-03.JPEG',
+                url: 'images/unsplash-image-03.jpg',
                 
                 title: 'Período postneonatal o lactante',
               
             },
             {
-                url: 'images/unsplash-image-04.JPEG',
+                url: 'images/unsplash-image-04.jpeg',
                 
                 title: 'Período de la primera infancia',
                 
